@@ -20,6 +20,8 @@ This system is designed to have M3 size (50mm's for the two on the end and appox
 
 It is from here that corrisponding nuts will be placed into the holes provided.
 
+use two 1mm(wide) by 3mm long screws in the top to secure the ZED Mini
+
 ## Is work on this done,
 No not quite, while it is good enough currently I belive that some of the mesurements could use some more slack since not all 3D printers are accurate enough to produce this.
 Also there were some sub milimeter inaccurcies with the inital product that could use to be fixed with a future itteration. 
