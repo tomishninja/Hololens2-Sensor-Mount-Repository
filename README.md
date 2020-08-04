@@ -1,7 +1,7 @@
 # Hololens2 3D Printable Sensor Mount
 A hololens2 mount for the ZED mini (https://www.stereolabs.com/blog/introducing-zed-mini/) desgigned to be printed within a 3D printer and will allow the addtion of a ZED mini camera to be mounted to the top of the hololens2.
 
-![A picture of the mount would normally be here](https://github.com/tomishninja/Hololens2-Sensor-Mount-Repository/blob/master/misc/pics/FrontFusionModel.PNG)
+![A picture of the mount would normally be here]https://github.com/tomishninja/Hololens2-Sensor-Mount-Repository/blob/master/misc/pics/RealThingB.jpg)
 
 ## Why would any one want this when the hololens has its own sensors?
 By using a ZED mini you are able to off board some of the more complex processing off of the hololens unit over to a PC createing and transfering data to the hololens such as texture data. It also allows you to collect real time data from regarding what the user expects to see. 
